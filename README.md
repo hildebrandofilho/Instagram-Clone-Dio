@@ -1,4 +1,4 @@
-# Instagram Clone - DIO
+# Instagram Clone
 
 Clone da página inicial de login do Instagram, utilizando HTML e CSS, desenvolvido no curso da DIO.
 
